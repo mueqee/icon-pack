@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Application Name
+Comment=Application Description
+Exec=application-command %F
+Icon=icon-name
+Terminal=false
+Categories=Category1;Category2;
+MimeType=text/plain;
+

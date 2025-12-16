@@ -2,11 +2,14 @@
 
 Моя мини-коллекция иконок для приложений
 
-![Cover](cover-pic/Cover.png)
-
 ![Cover 1](cover-pic/Cover(1).png)
+Obsidian icon | IDE icon | Firefox icon | VS code icon | Settings (ide) icon | Kitty terminal icon
+
+![Cover](cover-pic/Cover.png)
+IDE icon | Firefox icon | Obsidian icon | VS code icon | Notepad icon
 
 ![Cover 2](cover-pic/Cover(2).png)
+Notepad icon | Firefox icon | IDE icon | Obsidian icon | VS code icon | Settings (ide) icon | Kitty terminal icon
 
 ## Содержимое
 
